@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3526d5a1-a91e-407b-868d-52dce235e2d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap/src/main/java/com/dalongplugin/bootstrap/demos/web/Api.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin_a/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin_a/src/main/java/com/dalongplugina/PluginA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin_b/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin_b/src/main/java/com/dalongpluginb/PluginB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin_interface/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin_interface/src/main/java/com/dalongpluginb/PluginContract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin_a/src/main/java/com/dalongplugina/PluginA.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin_a/src/main/java/com/dalongplugina/PluginA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugin_b/src/main/java/com/dalongpluginb/PluginB.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin_b/src/main/java/com/dalongpluginb/PluginB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,36 +46,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BootstrapApplication.executor": "Run",
-    "Application.com.dalongplugin.bootstrap.BootstrapApplication.executor": "Debug",
-    "Maven.bootstrap [org.apache.maven.plugins:maven-jar-plugin:3.3.0:jar].executor": "Run",
-    "Maven.bootstrap [org.springframework.boot:spring-boot-maven-plugin:2.4.2:repackage].executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.BootstrapApplication (1).executor": "Run",
-    "Spring Boot.BootstrapApplication.executor": "Run",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BootstrapApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.dalongplugin.bootstrap.BootstrapApplication.executor&quot;: &quot;Debug&quot;,
+    &quot;Maven.bootstrap [org.apache.maven.plugins:maven-jar-plugin:3.3.0:jar].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.bootstrap [org.springframework.boot:spring-boot-maven-plugin:2.4.2:repackage].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BootstrapApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.BootstrapApplication.executor&quot;: &quot;Run&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.BootstrapApplication (1)">
     <configuration name="BootstrapApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dalongpluginb.bootstrap.BootstrapApplication" />
@@ -156,6 +150,7 @@
       <workItem from="1707057175500" duration="1765000" />
       <workItem from="1707058998366" duration="1032000" />
       <workItem from="1707060071563" duration="2986000" />
+      <workItem from="1707095008693" duration="1084000" />
     </task>
     <servers />
   </component>
