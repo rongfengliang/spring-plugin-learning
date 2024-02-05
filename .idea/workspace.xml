@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3526d5a1-a91e-407b-868d-52dce235e2d6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin_a/src/main/java/com/dalongplugina/PluginA.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin_a/src/main/java/com/dalongplugina/PluginA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin_b/src/main/java/com/dalongpluginb/PluginB.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugin_b/src/main/java/com/dalongpluginb/PluginB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,7 @@
       <workItem from="1707057175500" duration="1765000" />
       <workItem from="1707058998366" duration="1032000" />
       <workItem from="1707060071563" duration="2986000" />
-      <workItem from="1707095008693" duration="1084000" />
+      <workItem from="1707095008693" duration="1426000" />
     </task>
     <servers />
   </component>
